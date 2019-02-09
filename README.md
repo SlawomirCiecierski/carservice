@@ -1,2 +1,2 @@
 # carservice
-A hello-world application to learn to everyone.
+A hello-world application to learn programming Java to everyone.
