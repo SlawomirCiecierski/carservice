@@ -2,7 +2,7 @@
 import java.io.*;
 import java.lang.*;
 import java.util.*;
-class proba4
+class Main
 {
  public static void main(String args[]) throws IOException //("Powstal blad!");
 	{
